@@ -1,21 +1,28 @@
 [
 	{
-		"Author": "Zecas",
-		"Name": "ArtisanMitra",
-		"Description": "Your ultimate ingame companion; spells and enchantments to make your gameplay experience a little more magical.",
-		"InternalName": "Zecas",
-		"AssemblyVersion": "1.0.4.9",
-		"RepoUrl": "https://github.com/luislobato/ArtisanMitra",
-		"IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/lemegeton.png",
-		"ApplicableVersion": "any",
-		"Tags": [],
-		"DalamudApiLevel": 11,
-		"IsHide": "False",
-		"IsTestingExclusive": "False",
-		"LastUpdated": 0,
-		"DownloadCount": 0,
-		"DownloadLinkInstall": "https://github.com/luislobato/ArtisanMitra/releases/download/Artisan/ArtisanMitra.zip",
-		"DownloadLinkTesting": "https://github.com/luislobato/ArtisanMitra/releases/download/Artisan/ArtisanMitra.zip",
-		"DownloadLinkUpdate": "https://github.com/luislobato/ArtisanMitra/releases/download/Artisan/ArtisanMitra.zip"
-	}
+    "Author": "Zecas",
+    "Name": "Artisan",
+    "Punchline": "A 'simple' crafting plugin.",
+    "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
+    "Tags": [
+      "crafting"
+    ],
+    "InternalName": "Artisan",
+    "RepoUrl": "https://github.com/luislobato/ArtisanMitra",
+    "DownloadCount": 1777485,
+    "LastUpdate": 1731836275804,
+    "DownloadLinkInstall": "https://github.com/luislobato/ArtisanMitra/releases/download/Artisan/ArtisanMitra.zip",
+    "DownloadLinkUpdate": "https://github.com/luislobato/ArtisanMitra/releases/download/Artisan/ArtisanMitra.zip",
+    "AssemblyVersion": "4.0.2.2",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "11",
+    "Changelog": "- Patch update.",
+    "TestingAssemblyVersion": "4.0.0.0",
+    "DownloadLinkTesting": "https://github.com/luislobato/ArtisanMitra/releases/download/Artisan/ArtisanMitra.zip",
+    "TestingDalamudApiLevel": "10",
+    "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
+  }
 ]
+
+
+  
